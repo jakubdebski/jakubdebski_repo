@@ -1,0 +1,7 @@
+lokalizacja oryginalnych danych:
+https://github.com/KAIR-ISZ-ADB/laboratorium-eda-jakubdebski/blob/main/11_S╠üLA╠ĘSKIE.csv
+
+oryginalne dane 11_S╠üLA╠ĘSKIE.csv dostępne są w folderze /Original_Data.
+
+dane do analizy dostępne są w folderze /Analisys_Data/11_S╠üLA╠ĘSKIE.csv. Zawarta jest w nich informacja o wynikach
+oceny odkurzaczy w jednej z sieci sklepów z województwa śląskiego oraz dane kupujących.

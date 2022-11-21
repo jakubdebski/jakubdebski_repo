@@ -1,0 +1,14 @@
+Opis wszystkich plików z folderu /Analysis_Data:
+
+### 11_S╠üLA╠ĘSKIE.csv
+
+Znajdują się tu wyniki oceny odkurzaczy w jednej z sieci sklepów z województwa śląskiego oraz dane kupujących.
+
+Zamienne:
+- Dni_od_zakupu - ilość dni, które minęły od chwili zakupu do dnia dzisiejszego
+- Marka - marka odkurzacza, który został zakupiony
+- Wiek_kupującego - określa wiek klienta
+- Płeć_kupującego - okresla płeć klienta
+- Ocena - określa ocenę zadowolenia z odkurzacza podaną przez klienta 
+
+Wykresy przedstawiające zmienne zawarte są w pliku /Command_Files/lab5.ipynb
